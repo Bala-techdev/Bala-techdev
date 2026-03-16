@@ -1,3 +1,5 @@
+![Profile views](https://komarev.com/ghpvc/?username=Bala-techdev&color=blue)
+
 ## Hi there 👋 It's me Bala
 
 🎓 B.E Computer Science Engineering Student  
