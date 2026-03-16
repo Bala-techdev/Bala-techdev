@@ -35,14 +35,93 @@
 
 ---
 
-# 🔥 Current Projects
+## 🔥 Current Projects
 
-🚀 **AI Fake News Detector**  
-Spring Boot + Gemini AI + MySQL  
-Detects misinformation using AI.
+### 🚀 AI Health Assistant
+**Tech Stack:** React JS + CSS + Gemini AI API  
 
-📋 **Smart Todo Management System**  
-Full Stack App using React + Spring Boot.
+AI-powered web application that helps users get basic health guidance using Generative AI.  
+The system analyzes user symptoms and provides intelligent health suggestions.
+
+**Features**
+- AI-powered health suggestions
+- Gemini AI integration
+- Simple and responsive UI
+- Real-time symptom analysis
+
+---
+
+### 📋 Complaint Management System *(Ongoing)*
+**Tech Stack:** React JS + CSS + Spring Boot + MySQL  
+
+A full-stack web application designed to manage public or organizational complaints efficiently.
+
+**Features**
+- User complaint registration
+- Admin dashboard for complaint management
+- Complaint status tracking
+- Secure backend using Spring Boot
+- Database integration with MySQL
+
+⚙️ **Status:** Currently under development
+
+---
+
+### 📰 AI Fake News Detection *(Ongoing)*
+**Tech Stack:** React JS + CSS + Spring Boot + MySQL + Gemini AI  
+
+An AI-powered system designed to detect misinformation in news content using AI models.
+
+**Features**
+- Detect fake or misleading news
+- AI analysis using Gemini API
+- React-based frontend
+- Secure backend API with Spring Boot
+- MySQL database storage
+
+⚙️ **Status:** Under development
+
+---
+
+### 🤖 AI Domain-Based Response Engine *(Ongoing)*
+**Tech Stack:** React JS + CSS + Spring Boot + MySQL + Ollama (Phi-3 Model)
+
+A smart AI engine designed to generate responses based on specific domains such as education, governance, and customer support.
+
+**Features**
+- Domain-specific AI responses
+- Local AI model using **Ollama Phi-3**
+- API-based backend using Spring Boot
+- Structured knowledge storage using MySQL
+
+⚙️ **Status:** Ongoing project
+
+---
+
+### ✅ Smart Todo Management System
+**Tech Stack:** React JS + CSS + Spring Boot + MySQL  
+
+A full-stack task management application to organize daily work efficiently.
+
+**Features**
+- Add / Edit / Delete tasks
+- Task completion tracking
+- REST API using Spring Boot
+- Persistent storage using MySQL
+
+---
+
+### 💼 CodSoft Web Development Internship Projects
+**Tech Stack:** HTML + CSS + JavaScript  
+
+Projects developed during the **CodSoft Web Development Internship**.
+
+**Projects Included**
+- Portfolio Website
+- Calculator Web Application
+- Responsive Landing Page
+
+These projects focus on improving **frontend development skills and responsive design**.
 
 ---
 
