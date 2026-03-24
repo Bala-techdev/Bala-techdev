@@ -8,7 +8,7 @@
 
 - 🔭 Currently working on **AI Fake News Detection System**
 - 🌱 Learning **Spring Boot, React, System Design and AI Integration**
-- 🧠 Practicing **DSA for product-based company interviews**
+- 🧠 Practicing **DSA for product-based company interviews and service-based**
 - 🏆 Interested in **Hackathons and building impactful real-world projects**
 - ⚡ Fun fact: I enjoy solving coding challenges daily.
 
